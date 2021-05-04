@@ -1,6 +1,6 @@
 <template>
   <v-container class="text-center">
-    <v-card elevation="3">
+    <v-card elevation="3" :style="{background: $vuetify.theme.themes['light'].header}">
       <v-card-title>BillyJack</v-card-title>
       <v-card-subtitle class="text-center">
         When policement break the Law then there isn't any Law...just a fight
@@ -15,7 +15,7 @@
     </v-card>
     <v-row justify="center">
       <v-overlay :absolute="absolute" :value="billyOverlay" class="ma4-m pa2-m">
-        <v-card elevation="6" class="rounded-xl pa-md-4 mx-lg-auto">
+        <v-card elevation="6" class="rounded-xl pa-md-4 mx-lg-auto" :style="{background: $vuetify.theme.themes['light'].overlay}">
           <v-card-title>Why Billy Jack?</v-card-title>
           <v-card-subtitle class="text-center">
             High Art as the genesis of civilization.
@@ -68,7 +68,7 @@
     </v-row>
     <v-row justify="center">
       <v-overlay :absolute="absolute" :value="murallOverlay" class="ma4-m pa2-m">
-        <v-card elevation="6" class="rounded-xl pa-md-4 mx-lg-auto">
+        <v-card elevation="6" class="rounded-xl pa-md-4 mx-lg-auto" :style="{background: $vuetify.theme.themes['light'].overlay}">
           <v-card-title>Why Murall?</v-card-title>
           <v-card-subtitle class="text-center">
             Decentralization as the genesis of a new civilization.
@@ -92,6 +92,14 @@
             I want to thank the creators of Murall and to applaud them for their insight and vision as well
             as their diligence in realizing a truly future proof solution to the questions surrounding
             the impermanence of art and the endurance of the message that all High Art is intended to convey.
+          </p>
+          <p>
+            The Murall project also mints NFTs [non-fungible tokens] from the Murall canvas.  These are 
+            unique, one-of-a-kind tokens that represents ownership of the underlying blockchain tokenization 
+            of the canvas art.  Billy Jack is, to the creator's best possible knowledge, the first 
+            self-minted complete Murall canvas by any artist.  This is an honor and a privilege.  The 
+            Billy Jack NFT is not currently for sale but will become available for sale at some point in 
+            the future and proceeds will be used to fund further art work based upon this landmark film.
           </p>
           <p>
             To those who have shared your messages to the Murall, I thank you.  To those who have not yet 

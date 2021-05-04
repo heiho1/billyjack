@@ -1,6 +1,5 @@
 require('dotenv').config()
 const murall = require('@murall/museum');
-const _ = require('lodash');
 
 const saveDir = process.env.BILLY_JACK_SAVE_DIR;
 const options = {

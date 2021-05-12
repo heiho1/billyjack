@@ -114,12 +114,12 @@
               truly free of censorship.
             </p>
             <p>
-              True art has always belongs to those who see a message that must
+              True art has always belonged to those who see a message that must
               be conveyed to the future generations. These messages can be
               celebratory, laudatory, or cautionary. They can be lyrical
               explosions of form and beauty, delineating Truth or Beauty in
               stark lines or ceaseless chiaroscuro. Or these messages can be
-              grim warnings to any who wil listen of the dangers that every
+              grim warnings, to any who will listen, of the dangers that every
               civilization must face in coming to grips with its past and in
               contemplating its future.
             </p>
@@ -129,8 +129,8 @@
               the project is truly a quantum leap in evolution of high art. I
               want to thank the creators of Murall and to applaud them for their
               insight and vision as well as their diligence in realizing a truly
-              future proof solution to the questions surrounding the
-              impermanence of art and the endurance of the message that all High
+              future-proof solution to the questions surrounding the
+              impermanence of art and the endurance of the messages that all High
               Art is intended to convey.
             </p>
             <p>

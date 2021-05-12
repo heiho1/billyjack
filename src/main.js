@@ -14,7 +14,7 @@ const vuetify =  new Vuetify({
         secondary: colors.amber.lighten1,
         accent: colors.amber.base, 
         header: colors.amber.lighten3,
-        overlay: colors.grey.darken2,
+        overlay: colors.grey.lighten2,
         top: colors.black,
         background: colors.amber.lighten5
       },

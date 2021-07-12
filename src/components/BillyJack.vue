@@ -6,7 +6,7 @@
     >
       <v-card-title>BillyJack</v-card-title>
       <v-card-subtitle class="text-center">
-        When policement break the Law then there isn't any Law...just a fight
+        When policemen break the Law then there isn't any Law...just a fight
         for survival.
       </v-card-subtitle>
       <v-img
